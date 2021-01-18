@@ -22,5 +22,9 @@ namespace TelerikWpfCoreApp
         {
             InitializeComponent();
         }
+        public void Method()
+        {
+
+        }
     }
 }
